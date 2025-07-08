@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "image_file": "denoised_image.png",
+        "processing_date": "2025-04-08 20:31:45",
+        "image_dimensions": {
+            "width": 829,
+            "height": 253
+        },
+        "image_stats": {
+            "mean_intensity": 215.90699781154493,
+            "std_dev": 61.333629982144025,
+            "min_value": 0,
+            "max_value": 255
+        },
+        "text_length": 712,
+        "ocr_engine": "Tesseract",
+        "configs_tried": [
+            "--oem 3 --psm 3 -l eng",
+            "--oem 3 --psm 6 -l eng",
+            "--oem 3 --psm 11 -l eng",
+            "--oem 3 --psm 1 -l eng"
+        ],
+        "successful_config": "--oem 3 --psm 3 -l eng"
+    },
+    "paragraph_text": "Tech billionaire Sachin Bansal, co-founder of India’s largest e-commerce company Flipkart,\nsaid that Indian companies have a significant opportunity to develop artificial intelligence (AI)\nfoundation models and large language models (LLMs). However, he emphasised that achieving\nthis would demand substantial capital investment, commitment, and skilled talent.\n\n“T do think about it quite often, but the challenge is that building LLMs is a full time job and it\ncan’t be a side activity. Also, it requires a lot of money,” said Bansal on Thursday night at an\nevent organised by consultancy firm Redseer in Bengaluru. “If you can accumulate talent and\ncapital, there is an opportunity and Indians are good at it.”"
+}

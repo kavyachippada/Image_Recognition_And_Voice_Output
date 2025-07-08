@@ -1,0 +1,3 @@
+HOW TO RUN 
+open terminal 
+type - streamlit run run1.py
